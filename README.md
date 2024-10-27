@@ -25,8 +25,8 @@ To repozytorium ma na celu prezentację różnych projektów w języku C++.
 
 1. Sklonuj repozytorium na swój lokalny dysk:
    ```bash
-   git clone https://github.com/twoj_login/projekty-cpp.git
-   cd projekty-cpp
+   git clone https://github.com/vLisek/cpp.git
+   cd cpp
 
 ## 🧑‍💻 Technologie
 C++ - jedyny język programowania używany w tym repozytorium.
