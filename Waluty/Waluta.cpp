@@ -390,7 +390,7 @@ int main() {
 	cout << " ########   ########  #######     ##       ##       ##          ########  #######  ##     ##  #######     ##          ########   #######  ######## ##     ## ##     ## " << endl << endl;
 	cout << " ______________________________________________________________________________________________________________________________________________________________________" << endl << endl << endl;
 	cout << " Witaj! Program, z którego właśnie próbujesz skorzystać służy do rozmieniania oraz przeliczania na inną walutę wprowadzonej przez Ciebie kwoty." << endl;
-	cout << " Życzymy miłej zabawy!" << endl << endl;
+	cout << " Życzę miłej zabawy!" << endl << endl;
 	cout << " Naciśnij jakikolwiek klawisz... ";
 	system("PAUSE > 0");
 	system("cls");
